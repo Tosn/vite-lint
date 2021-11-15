@@ -12,6 +12,8 @@
     "vue": "^3.2.16"
   },
   "devDependencies": {
+    "@commitlint/cli": "^14.1.0",
+    "@commitlint/config-conventional": "^14.1.0",
     "@vitejs/plugin-vue": "^1.9.3",
     "@vue/cli-service": "^4.5.15",
     "@vue/eslint-config-airbnb": "^5.3.0",
